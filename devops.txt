@@ -1,3 +1,8 @@
 ghi gi vao di
 de suy nghi
 ok git add di
+file nay day thay doi | doc khong hieu doan 4 - 8 đã có sự thây đổi ở máy của mày nhưng trên github thì không có giờ hãy push nó lên github đi
+
+add no vao
+commit no 
+va push nó len github di
