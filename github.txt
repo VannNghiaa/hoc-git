@@ -1,0 +1,9 @@
+cu lam theo huong dan cua github
+
+git add <ten foder/file> : dùng để thêm foder/file vào git
+git add . : dùng để thêm tất cả mọi thứ vào git
+git status: dùng để xem trạng thái của git
+    - màu đỏ : foder/file chưa được thêm vào git
+    - màu cam : đã thêm nhưng đã có sự thay đôi
+    - màu xanh: chờ commit
+git commit -m <noi dung commit>: commit giống như việc đóng gói 
